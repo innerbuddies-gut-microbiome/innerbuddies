@@ -1,0 +1,21 @@
+Serotonin is widely known as a brain neurotransmitter linked to mood, sleep, and appetite. Yet roughly 90–95% of the body’s serotonin is produced in the gastrointestinal tract, primarily by enterochromaffin cells lining the gut. This shifts how we think about emotional health: the gut truly functions as a “second brain,” coordinating digestion, immunity, and chemical signaling that influence the rest of the body.
+
+How is gut serotonin made? Dietary tryptophan — an essential amino acid found in protein-rich foods — is converted to serotonin via 5-HTP in a two-step biochemical process. That conversion occurs both in the central nervous system and in the gut, but the molecules largely remain in separate pools: serotonin made in the gut does not cross the blood–brain barrier. Still, gut-derived serotonin affects motility, pain perception, clotting, and immune cell behavior, and it communicates with the brain through the vagus nerve, immune mediators, and microbial metabolites.
+
+Enteroendocrine and enteric systems
+Enterochromaffin cells sense luminal signals from food and microbes, releasing serotonin to regulate peristalsis and to signal local neurons. The enteric nervous system (ENS), with its ~100 million neurons, uses serotonin to coordinate muscle contractions and reflexes — which is why serotonin imbalances can contribute to conditions such as irritable bowel syndrome (IBS), constipation, or diarrhea.
+
+Microbiome interactions
+Gut microbes influence serotonin production in several ways: they stimulate enterochromaffin cells, produce short-chain fatty acids that increase tryptophan availability, and modulate inflammation that alters tryptophan metabolism. Specific strains like Bifidobacterium and Lactobacillus have been implicated in these pathways. Research into psychobiotics — probiotics that affect brain function — explores how targeted microbes may support mood and sleep by acting through gut serotonin mechanisms.
+
+Clinical implications
+Because gut health shapes systemic serotonin signaling, gastrointestinal inflammation and dysbiosis can affect mood and even antidepressant responsiveness. For instance, chronic inflammation diverts tryptophan down the kynurenine pathway, reducing serotonin synthesis and producing metabolites that may impact brain function. Conditions associated with altered gut serotonin include IBS, SIBO (small intestinal bacterial overgrowth), obesity-related appetite dysregulation, and some neurodevelopmental profiles.
+
+Practical, evidence-based support
+- Diet: Emphasize fiber-rich, plant-forward meals and prebiotic foods (garlic, onions, leeks, asparagus) to nurture beneficial microbes. Fermented foods (yogurt, kefir, kimchi) can help diversify the microbiome.  
+- Probiotics: Certain strains (e.g., Lactobacillus plantarum, Bifidobacterium longum, Lactobacillus rhamnosus) show promise in modulating gut–brain signaling.  
+- Stress, sleep, exercise: Managing stress, maintaining sleep hygiene, and regular aerobic exercise support both microbiome balance and serotonin pathways.
+
+For clinicians and researchers, integrating gut-focused assessments can clarify links between GI function and mood. Practical resources on testing approaches and microbiome applications are available, for example: <a href='https://innerbuddies-gut-microbiome.github.io/innerbuddies/gut-microbiome-testing-why-different-for-consumers-and-healthcare-professionals'>gut microbiome testing — consumers vs healthcare professionals</a> and <a href='https://innerbuddies-gut-microbiome.github.io/innerbuddies/gut-microbiome-endurance-sports-the-hidden-key-to-stamina-recovery-peak-performance'>gut microbiome and endurance sports</a>. A concise overview on gut-derived serotonin is available at [the gut as a serotonin powerhouse](https://www.innerbuddies.com/blogs/gut-health/serotonin-produced-in-gut). For product or testing information, see <a href='https://www.innerbuddies.com/products/microbiome-test'>microbiome test</a>.
+
+Understanding that the gut is a major serotonin factory reframes how we approach mental and digestive health: supporting the microbiome and gut environment is an important component of whole-body wellness, not a substitute for clinical care but a complementary perspective grounded in emerging evidence.
